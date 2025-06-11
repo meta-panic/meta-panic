@@ -3,7 +3,7 @@
 
 I'm a **frontend developer** with a passion for building intuitive and accessible web interfaces — but my love for **Node.js** and backend runs deep too.
 
-💻 **Currently learning:** I'm expanding my skills through the [RS School/ Node.js course](https://rs.school/js/), diving deeper into full-stack development.
+💻 **Currently learning:** I'm expanding my skills through the [RS School/ Node.js course](https://rs.school/courses/nodejs), diving deeper into full-stack development.
 
 🌱 **Side project:**
 I developed [exb-nsk.ru](https://exb-nsk.ru/), a website for a local church community. From figma to deploy.
